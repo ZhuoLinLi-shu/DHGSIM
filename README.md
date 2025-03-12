@@ -1,6 +1,4 @@
 # DHGSIM
-The implementation of Dynamic Hypergraph Structure Learning for Spatio-temporal Time Series Forecasting.
-
 The code is coming soon.
 
 Our previous work can serve as a reference
